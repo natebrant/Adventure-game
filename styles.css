@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.game {
+    color: white;
+    text-align: center;
+}
+
+.info {
+    color: orange;
+    text-align: center;
+}
+
+.hp {
+    position:absolute;
+    overflow: hidden;
+    width: 50%;
+    height: 50%;
+   Top:70%;
+    Left:65%;
+ 
+}
+button{height:10%;}
